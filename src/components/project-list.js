@@ -7,6 +7,7 @@ const projects = [
         technologies: "An explanation of the technologies used, including one or more technical challenges you solved.",
         contributions: "Explanation of your particular contributions.",
         image: "../../images/expressFileStorage1.png",
+        image2: "../../images/expressFileStorage2.png",
         link: "/project/1",
         github: 'https://github.com/',
     },
@@ -18,6 +19,7 @@ const projects = [
         technologies: "An explanation of the technologies used, including one or more technical challenges you solved.",
         contributions: "Explanation of your particular contributions.",
         image: "../../images/project_icon.png",
+        image2: "../../images/project_icon.png",
         link: "/project/2",
         github: 'https://github.com/',    },
     {
@@ -28,6 +30,7 @@ const projects = [
         technologies: "An explanation of the technologies used, including one or more technical challenges you solved.",
         contributions: "Explanation of your particular contributions.",
         image: "../../images/project_icon.png",
+        image2: "../../images/project_icon.png",
         link: "/project/3",
         github: 'https://github.com/',    },
     {
@@ -38,6 +41,7 @@ const projects = [
         technologies: "An explanation of the technologies used, including one or more technical challenges you solved.",
         contributions: "Explanation of your particular contributions.",
         image: "../../images/project_icon.png",
+        image2: "../../images/project_icon.png",
         link: "/project/4",
         github: 'https://github.com/',    },
     {
@@ -48,6 +52,7 @@ const projects = [
         technologies: "An explanation of the technologies used, including one or more technical challenges you solved.",
         contributions: "Explanation of your particular contributions.",
         image: "../../images/project_icon.png",
+        image2: "../../images/project_icon.png",
         link: "/project/5",
         github: 'https://github.com/',    },
     {
@@ -58,6 +63,7 @@ const projects = [
         technologies: "An explanation of the technologies used, including one or more technical challenges you solved.",
         contributions: "Explanation of your particular contributions.",
         image: "../../images/project_icon.png",
+        image2: "../../images/project_icon.png",
         link: "/project/6",
         github: 'https://github.com/',    },
     {
@@ -68,6 +74,7 @@ const projects = [
         technologies: "An explanation of the technologies used, including one or more technical challenges you solved.",
         contributions: "Explanation of your particular contributions.",
         image: "../../images/project_icon.png",
+        image2: "../../images/project_icon.png",
         link: "/project/7",
         github: 'https://github.com/',    },
     {
@@ -78,6 +85,7 @@ const projects = [
         technologies: "An explanation of the technologies used, including one or more technical challenges you solved.",
         contributions: "Explanation of your particular contributions.",
         image: "../../images/project_icon.png",
+        image2: "../../images/project_icon.png",
         link: "/project/8",
         github: 'https://github.com/',    },
     {
@@ -88,6 +96,7 @@ const projects = [
         technologies: "An explanation of the technologies used, including one or more technical challenges you solved.",
         contributions: "Explanation of your particular contributions.",
         image: "../../images/project_icon.png",
+        image2: "../../images/project_icon.png",
         link: "/project/9",
         github: 'https://github.com/',    },
 ];

@@ -12,6 +12,7 @@ function ProjectDetails() {
             <div className='card '>
                 <h2>{project.title} Overview</h2>
                 <img src={project.image} alt={project.title} className="img-fluid detail-image" />
+                <img src={project.image2} alt={project.title} className="img-fluid detail-image" />
                 <p>{project.description}</p>
                 <a href={project.github} className="btn btn-primary">Github Page</a>
             </div>
