@@ -11,7 +11,7 @@ function Home() {
         <hr/>
         <p>See my projects</p>
         <Link className="btn btn-primary" to="/portfolio">View Portfolio</Link>
-        <a className="btn btn-primary" href='https://github.com/'>Clone Code</a>
+        <a className="btn btn-primary" href='https://github.com/SamuelMHunter/samuelmhunter.github.io'>Clone Code</a>
       </div>
     </div>
   );
