@@ -1,12 +1,12 @@
 const projects = [
     {
         id: 1,
-        title: "Project 1",
+        title: "Express With File Storage",
         description: "Short project description",
         long_description: "Each project should have about a full page of description for the project",
         technologies: "An explanation of the technologies used, including one or more technical challenges you solved.",
         contributions: "Explanation of your particular contributions.",
-        image: "../../images/project_icon.png",
+        image: "../../images/expressFileStorage1.png",
         link: "/project/1",
         github: 'https://github.com/',
     },
