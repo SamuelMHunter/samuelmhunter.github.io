@@ -36,7 +36,7 @@ export default function Register() {
                 body: JSON.stringify(newPerson),
             });
 
-            //const responseData = await response.json();
+            const responseData = await response.json();
 
             //Show error if there's a problem 
             if (response.status !== 200) {
@@ -46,8 +46,7 @@ export default function Register() {
 
             setForm({ first_name: '', last_name: '', email: '', phone: '', password: '' });
 
-            //navigate(`/employee-summary${props.record.id}`);
-            navigate(`/`);
+            navigate(`/employee-summary/${responseData.id}`);
         } catch (error) {
             setMessage("There was an error connecting to the server. Please try again later.");
             console.error("Error creating account:", error);

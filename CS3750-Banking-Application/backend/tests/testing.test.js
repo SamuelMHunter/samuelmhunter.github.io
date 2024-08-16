@@ -15,7 +15,7 @@ beforeAll(done => {
 });
 
 //Begining test code template. 
-describe('GET /testing', () => {
+describe('Sample Test', () => {
   it('should return "Passed test"', async () => {
     const response = await request(app).get('/testing');
     expect(response.status).toBe(200);
